@@ -12,7 +12,8 @@ We cna use the git version control directly from the command line. Here are some
 
 - `git push` - This command will take whatever commits you have on your computer and push them to the remor repository on GitHub.com
 
-
+- `git add .` - adds any NEW changes that are unstaged.
+`
 There will be many other things to record as notes for shorcuts with git or version control
 
 **TIP** Youshould make frequent , small commits when working on your projects.

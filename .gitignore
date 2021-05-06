@@ -1,0 +1,4 @@
+*.zip
+# ignore these folders
+bin/
+obj/

@@ -1,0 +1,16 @@
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\myfirstrepository.exe
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\myfirstrepository.deps.json
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\myfirstrepository.runtimeconfig.json
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\myfirstrepository.runtimeconfig.dev.json
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\myfirstrepository.dll
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\ref\myfirstrepository.dll
+C:\Github\Sandbox\myfirstrepository\bin\Debug\net5.0\myfirstrepository.pdb
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.csprojAssemblyReference.cache
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.AssemblyInfoInputs.cache
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.AssemblyInfo.cs
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.csproj.CoreCompileInputs.cache
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.dll
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\ref\myfirstrepository.dll
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.pdb
+C:\Github\Sandbox\myfirstrepository\obj\Debug\net5.0\myfirstrepository.genruntimeconfig.cache
