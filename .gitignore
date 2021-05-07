@@ -1,4 +1,10 @@
+  
+# The .gitignore file identifies the patterns for files/folders that you do NOT want to track
+# in your git repository.
+
 *.zip
-# ignore these folders
+
+# Ignore these folders
 bin/
 obj/
+.vscode/
