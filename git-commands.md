@@ -31,6 +31,13 @@ We can use the git version control application directly from the command line. H
 - `gh repo create "repository name"` - This command will take whatever create a new remote repository on GitHub.com.
 - `gh push -u origin master` - This command will create a new brach mnamed 'master' in repository on GitHub.com.
 - `git push` - This command will take whatever commits you have on your computer after your changes and updates on GitHub.com.
+- `git remote -v` - This command will fetch the remote repository names -origin  https://gthub.com/jcbince/myfirstrepository (fetch) -origin  https://gthub.com/jcbince/myfirstrepository (push)
+
+- `git remote remove origin` - This command will remove the origin repository
+ 
+
+git remote remove origin
+PS C:\Github\Sandbox\myfirstrepository> git remote add origin https://github.com/jcbince/myfirstrepository
 
 There are a lot of things to learn when it comes to working with git, but these commands are the day-to-day ones that you will do as you work with version control.
 
